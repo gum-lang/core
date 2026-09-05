@@ -1,0 +1,3 @@
+# Escape sequences
+escaped = "Tab:\t Newline:\n Quote:\" Backslash:\\"
+unicode = "Unicode: \u0041 \U0001F600"

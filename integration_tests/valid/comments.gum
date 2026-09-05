@@ -1,0 +1,5 @@
+# Comments
+# This is a comment
+name = "Gum" # Inline comment
+# Another comment
+version = 1

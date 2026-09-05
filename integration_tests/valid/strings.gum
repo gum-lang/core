@@ -1,0 +1,11 @@
+# String types
+basic = "Hello, World!"
+literal = 'No escapes here: \n \t'
+multiline = """
+    This is a
+    multiline string
+"""
+multiline_literal = '''
+    No escapes
+    in literal strings
+'''

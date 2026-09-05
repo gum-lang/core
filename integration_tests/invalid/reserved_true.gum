@@ -1,0 +1,2 @@
+# Invalid: reserved keyword as bare key
+true = "value"

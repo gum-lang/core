@@ -1,0 +1,7 @@
+# Numbers
+integer = 42
+negative = -17
+positive = +99
+float = 3.14
+scientific = 1.5e10
+negative_exp = 2.5e-3

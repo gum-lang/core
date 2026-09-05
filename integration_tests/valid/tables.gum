@@ -1,0 +1,11 @@
+# Tables
+config = {
+    host = "localhost"
+    port = 8080
+}
+
+nested = {
+    inner = {
+        value = 42
+    }
+}

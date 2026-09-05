@@ -1,0 +1,4 @@
+# Quoted keys
+"quoted key" = "value"
+'literal key' = "another value"
+"key with spaces" = 42
